@@ -1,0 +1,80 @@
+# Here since number of 'no' is greater than 'yes', the baseline will be that outdoorSeating = False, this will give us a baseline zero-one error of yes/(yes+no) = 0.326, which is very high as compared to the bayes classifier
+
+# Zero-One Loss tells just, if the test sample is correctly classified or not, Squared Loss indicates the closeness of the test sample with the correct label 
+
+For Train Data Fraction =  0.05
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  4.296356997262736e-05
+
+For Train Data Fraction =  0.1
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  1.5984650574543373e-05
+
+For Train Data Fraction =  0.15000000000000002
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  4.363734240743267e-06
+
+For Train Data Fraction =  0.2
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  2.4817167423898446e-06
+
+For Train Data Fraction =  0.25
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  2.4792851451948946e-06
+
+For Train Data Fraction =  0.30000000000000004
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  2.3382212829244567e-06
+
+For Train Data Fraction =  0.35000000000000003
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  1.0470230875053162e-06
+
+For Train Data Fraction =  0.4
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  1.569220499039436e-05
+
+For Train Data Fraction =  0.45
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  5.433506951893648e-07
+
+For Train Data Fraction =  0.5
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  3.9094724200776167e-07
+
+For Train Data Fraction =  0.55
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  5.171363572479467e-07
+
+For Train Data Fraction =  0.6000000000000001
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  1.199275664978143e-06
+
+For Train Data Fraction =  0.65
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  3.15487062543429e-07
+
+For Train Data Fraction =  0.7000000000000001
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  2.828239228694413e-06
+
+For Train Data Fraction =  0.75
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  1.4498561402439815e-07
+
+For Train Data Fraction =  0.8
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  2.8328776574131125e-07
+
+For Train Data Fraction =  0.8500000000000001
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  2.187789169973904e-07
+
+For Train Data Fraction =  0.9
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  9.105428570758205e-08
+
+For Train Data Fraction =  0.9500000000000001
+ZERO-ONE LOSS =  0.0
+SQUARED LOSS =  1.1729187529646334e-07
+
