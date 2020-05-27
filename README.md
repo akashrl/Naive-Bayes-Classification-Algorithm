@@ -4,8 +4,7 @@ See .py files under Q2 and Q3 for algorithm implementation.
 
 See ***NBC_Proj.pdf*** for full project and algorithm details.
 
-In this programming assignment I have implemented a naive Bayes classification algorithm
-and evaluated it on a modified Yelp dataset.
+In this programming assignment, the Naive Bayes Classification algorithm was implemented and evaluated it on a modified Yelp dataset.
 
 **Note:** This was implemented from scratch in Python. No models already implemented in machine learning libraries (e.g., scikit-learn) were used. 
 
@@ -34,8 +33,7 @@ All the attributes except the last in the pre-processed data were used as featur
 The attribute outdoorSeating was the class label, i.e., Y = {1, 0}.
 
 ## Smoothing:
-**Laplace smoothing** was implemented in the parameter estimation. For an attribute Xi with k values, Laplace correction adds 1 to the numerator and k to the denominator of the maximum likelihood estimate for P(Xi = xi
-| Y ).
+**Laplace smoothing** was implemented in the parameter estimation. For an attribute Xi with k values, Laplace correction adds 1 to the numerator and k to the denominator of the maximum likelihood estimate for P(Xi = xi | Y ).
 
 ## Evaluation
 When the learned NBC was applied to predict the class labels of the examples in the test set, (i) zero-one loss, and (ii) squared loss were used to evaluate the predictions.
