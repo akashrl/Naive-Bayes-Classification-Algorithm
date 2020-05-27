@@ -1,5 +1,9 @@
 # Naive-Bayes-Classification-Algorithm
 
+See .py files under Q2 and Q3 for algorithm implementation.
+
+See ***NBC_Proj.pdf*** for full project and algorithm details.
+
 In this programming assignment I have implemented a naive Bayes classification algorithm
 and evaluated it on a modified Yelp dataset.
 
