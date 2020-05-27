@@ -18,7 +18,7 @@ This implements algorithms to learn (i.e., estimate) and apply (i.e., predict) t
 • Binary features (columns) should be created for every value corresponding to multivalued attributes ({ambience, parking, dietaryRestrictions, recommendedFor}).
 For example: The attribute ”recommendedFor’ can take the following multiple values for a data instance: (’breakfast’,’lunch’,’brunch’,’dinner’,’latenight’,’dessert’). The column corresponding to ”recommendedFor” should be replaced by 6 new columns having binary indicator (True/False) illustrating whether that value is true for that data instance.
 
-• Missing value treatment in attributes should be done by adding ”None”.
+• Missing value treatment in attributes was done by adding ”None”.
 
 • If any further pre-processing of the data is required or used, it should be clearly
 mentioned in the report.
